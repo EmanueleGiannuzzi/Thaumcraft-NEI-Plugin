@@ -1,0 +1,6 @@
+recipe.type.arcaneworkbenchshaped=Mesa de M. Arcana (Com Forma)
+recipe.type.arcaneworkbenchshapeless=Mesa de M. Arcana (Sem Forma)
+item.itemaspect.aspectprefix=Aspecto
+recipe.aspects.containing=Itens Contendo
+recipe.aspects.component=Componente
+recipe.aspects.usedin=Usado em
