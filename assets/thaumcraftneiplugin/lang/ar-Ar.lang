@@ -1,0 +1,6 @@
+recipe.type.arcaneworkbenchshaped=المنضدة على شكل
+recipe.type.arcaneworkbenchshapeless=لا شكل المنضدة
+item.itemaspect.aspectprefix=Aspect
+recipe.aspects.containing=مواد تحتوي على
+recipe.aspects.component=المحتويات
+recipe.aspects.usedin=يستخدم في
